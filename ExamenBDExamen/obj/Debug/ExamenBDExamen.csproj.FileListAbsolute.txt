@@ -1,0 +1,60 @@
+C:\Users\nesto\source\repos\ExamenBDExamen\ExamenBDExamen\bin\Debug\ExamenBDExamen.exe.config
+C:\Users\nesto\source\repos\ExamenBDExamen\ExamenBDExamen\bin\Debug\ExamenBDExamen.exe
+C:\Users\nesto\source\repos\ExamenBDExamen\ExamenBDExamen\bin\Debug\ExamenBDExamen.pdb
+C:\Users\nesto\source\repos\ExamenBDExamen\ExamenBDExamen\obj\Debug\ExamenBDExamen.csprojAssemblyReference.cache
+C:\Users\nesto\source\repos\ExamenBDExamen\ExamenBDExamen\obj\Debug\ExamenBDExamen.Anexo.Principal.resources
+C:\Users\nesto\source\repos\ExamenBDExamen\ExamenBDExamen\obj\Debug\ExamenBDExamen.Form1.resources
+C:\Users\nesto\source\repos\ExamenBDExamen\ExamenBDExamen\obj\Debug\ExamenBDExamen.Properties.Resources.resources
+C:\Users\nesto\source\repos\ExamenBDExamen\ExamenBDExamen\obj\Debug\ExamenBDExamen.csproj.GenerateResource.cache
+C:\Users\nesto\source\repos\ExamenBDExamen\ExamenBDExamen\obj\Debug\ExamenBDExamen.csproj.CoreCompileInputs.cache
+C:\Users\nesto\source\repos\ExamenBDExamen\ExamenBDExamen\obj\Debug\ExamenBDExamen.exe
+C:\Users\nesto\source\repos\ExamenBDExamen\ExamenBDExamen\obj\Debug\ExamenBDExamen.pdb
+C:\Users\nesto\source\repos\ExamenBDExamen\ExamenBDExamen\obj\Debug\ExamenBDExamen.Entidades.BuscarCliente.resources
+C:\Users\nesto\source\repos\ExamenBDExamen\ExamenBDExamen\obj\Debug\ExamenBDExamen.Entidades.BuscarCompra.resources
+C:\Users\nesto\source\repos\ExamenBDExamen\ExamenBDExamen\obj\Debug\ExamenBDExamen.Entidades.BuscarDetCompra.resources
+C:\Users\nesto\source\repos\ExamenBDExamen\ExamenBDExamen\obj\Debug\ExamenBDExamen.Entidades.BuscarDetDevolucion.resources
+C:\Users\nesto\source\repos\ExamenBDExamen\ExamenBDExamen\obj\Debug\ExamenBDExamen.Entidades.BuscarDetVenta.resources
+C:\Users\nesto\source\repos\ExamenBDExamen\ExamenBDExamen\obj\Debug\ExamenBDExamen.Entidades.BuscarDevolucion.resources
+C:\Users\nesto\source\repos\ExamenBDExamen\ExamenBDExamen\obj\Debug\ExamenBDExamen.Entidades.BuscarProducto.resources
+C:\Users\nesto\source\repos\ExamenBDExamen\ExamenBDExamen\obj\Debug\ExamenBDExamen.Entidades.BuscarProveedore.resources
+C:\Users\nesto\source\repos\ExamenBDExamen\ExamenBDExamen\obj\Debug\ExamenBDExamen.Entidades.BuscarVenta.resources
+C:\Users\nesto\source\repos\ExamenBDExamen\ExamenBDExamen\obj\Debug\ExamenBDExamen.Nuevos.NuevaCompra.resources
+C:\Users\nesto\source\repos\ExamenBDExamen\ExamenBDExamen\obj\Debug\ExamenBDExamen.Nuevos.NuevoCliente.resources
+C:\Users\nesto\source\repos\ExamenBDExamen\ExamenBDExamen\obj\Debug\ExamenBDExamen.Nuevos.NuevoDetCompra.resources
+C:\Users\nesto\source\repos\ExamenBDExamen\ExamenBDExamen\obj\Debug\ExamenBDExamen.Nuevos.NuevoProducto.resources
+C:\Users\nesto\source\repos\ExamenBDExamen\ExamenBDExamen\obj\Debug\ExamenBDExamen.Nuevos.NuevoProveedor.resources
+C:\Users\nesto\source\repos\ExamenBDExamen\ExamenBDExamen\obj\Debug\ExamenBDExamen.Nuevos.NuevaDevolucion.resources
+C:\Users\nesto\source\repos\ExamenBDExamen\ExamenBDExamen\obj\Debug\ExamenBDExamen.Nuevos.NuevaVenta.resources
+C:\Users\nesto\source\repos\ExamenBDExamen\ExamenBDExamen\obj\Debug\ExamenBDExamen.Nuevos.NuevoDetDevolucion.resources
+C:\Users\nesto\source\repos\ExamenBDExamen\ExamenBDExamen\obj\Debug\ExamenBDExamen.Nuevos.NuevoDetVenta.resources
+C:\Users\nesto\source\repos\ExamenBDExamen\ExamenBDExamen\obj\Debug\ExamenBDExamen.Anexo.VistasParaLector.resources
+C:\Users\nesto\source\repos\Examen Base de datos\ExamenBDExamen\ExamenBDExamen\bin\Debug\ExamenBDExamen.exe.config
+C:\Users\nesto\source\repos\Examen Base de datos\ExamenBDExamen\ExamenBDExamen\bin\Debug\ExamenBDExamen.exe
+C:\Users\nesto\source\repos\Examen Base de datos\ExamenBDExamen\ExamenBDExamen\bin\Debug\ExamenBDExamen.pdb
+C:\Users\nesto\source\repos\Examen Base de datos\ExamenBDExamen\ExamenBDExamen\obj\Debug\ExamenBDExamen.csproj.AssemblyReference.cache
+C:\Users\nesto\source\repos\Examen Base de datos\ExamenBDExamen\ExamenBDExamen\obj\Debug\ExamenBDExamen.Anexo.Principal.resources
+C:\Users\nesto\source\repos\Examen Base de datos\ExamenBDExamen\ExamenBDExamen\obj\Debug\ExamenBDExamen.Anexo.VistasParaLector.resources
+C:\Users\nesto\source\repos\Examen Base de datos\ExamenBDExamen\ExamenBDExamen\obj\Debug\ExamenBDExamen.Entidades.BuscarCliente.resources
+C:\Users\nesto\source\repos\Examen Base de datos\ExamenBDExamen\ExamenBDExamen\obj\Debug\ExamenBDExamen.Entidades.BuscarCompra.resources
+C:\Users\nesto\source\repos\Examen Base de datos\ExamenBDExamen\ExamenBDExamen\obj\Debug\ExamenBDExamen.Entidades.BuscarDetCompra.resources
+C:\Users\nesto\source\repos\Examen Base de datos\ExamenBDExamen\ExamenBDExamen\obj\Debug\ExamenBDExamen.Entidades.BuscarDetDevolucion.resources
+C:\Users\nesto\source\repos\Examen Base de datos\ExamenBDExamen\ExamenBDExamen\obj\Debug\ExamenBDExamen.Entidades.BuscarDetVenta.resources
+C:\Users\nesto\source\repos\Examen Base de datos\ExamenBDExamen\ExamenBDExamen\obj\Debug\ExamenBDExamen.Entidades.BuscarDevolucion.resources
+C:\Users\nesto\source\repos\Examen Base de datos\ExamenBDExamen\ExamenBDExamen\obj\Debug\ExamenBDExamen.Entidades.BuscarProducto.resources
+C:\Users\nesto\source\repos\Examen Base de datos\ExamenBDExamen\ExamenBDExamen\obj\Debug\ExamenBDExamen.Entidades.BuscarProveedore.resources
+C:\Users\nesto\source\repos\Examen Base de datos\ExamenBDExamen\ExamenBDExamen\obj\Debug\ExamenBDExamen.Entidades.BuscarVenta.resources
+C:\Users\nesto\source\repos\Examen Base de datos\ExamenBDExamen\ExamenBDExamen\obj\Debug\ExamenBDExamen.Form1.resources
+C:\Users\nesto\source\repos\Examen Base de datos\ExamenBDExamen\ExamenBDExamen\obj\Debug\ExamenBDExamen.Nuevos.NuevaCompra.resources
+C:\Users\nesto\source\repos\Examen Base de datos\ExamenBDExamen\ExamenBDExamen\obj\Debug\ExamenBDExamen.Nuevos.NuevaDevolucion.resources
+C:\Users\nesto\source\repos\Examen Base de datos\ExamenBDExamen\ExamenBDExamen\obj\Debug\ExamenBDExamen.Nuevos.NuevaVenta.resources
+C:\Users\nesto\source\repos\Examen Base de datos\ExamenBDExamen\ExamenBDExamen\obj\Debug\ExamenBDExamen.Nuevos.NuevoCliente.resources
+C:\Users\nesto\source\repos\Examen Base de datos\ExamenBDExamen\ExamenBDExamen\obj\Debug\ExamenBDExamen.Nuevos.NuevoDetCompra.resources
+C:\Users\nesto\source\repos\Examen Base de datos\ExamenBDExamen\ExamenBDExamen\obj\Debug\ExamenBDExamen.Nuevos.NuevoDetDevolucion.resources
+C:\Users\nesto\source\repos\Examen Base de datos\ExamenBDExamen\ExamenBDExamen\obj\Debug\ExamenBDExamen.Nuevos.NuevoDetVenta.resources
+C:\Users\nesto\source\repos\Examen Base de datos\ExamenBDExamen\ExamenBDExamen\obj\Debug\ExamenBDExamen.Nuevos.NuevoProducto.resources
+C:\Users\nesto\source\repos\Examen Base de datos\ExamenBDExamen\ExamenBDExamen\obj\Debug\ExamenBDExamen.Nuevos.NuevoProveedor.resources
+C:\Users\nesto\source\repos\Examen Base de datos\ExamenBDExamen\ExamenBDExamen\obj\Debug\ExamenBDExamen.Properties.Resources.resources
+C:\Users\nesto\source\repos\Examen Base de datos\ExamenBDExamen\ExamenBDExamen\obj\Debug\ExamenBDExamen.csproj.GenerateResource.cache
+C:\Users\nesto\source\repos\Examen Base de datos\ExamenBDExamen\ExamenBDExamen\obj\Debug\ExamenBDExamen.csproj.CoreCompileInputs.cache
+C:\Users\nesto\source\repos\Examen Base de datos\ExamenBDExamen\ExamenBDExamen\obj\Debug\ExamenBDExamen.exe
+C:\Users\nesto\source\repos\Examen Base de datos\ExamenBDExamen\ExamenBDExamen\obj\Debug\ExamenBDExamen.pdb
